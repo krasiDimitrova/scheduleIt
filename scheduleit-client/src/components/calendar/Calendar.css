@@ -1,0 +1,13 @@
+.day {
+  width: 100px;
+  height: 200px;
+  vertical-align: top;
+  padding: 0;
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.day-events-warapper {
+  height: 200px;
+  overflow: scroll;
+}
